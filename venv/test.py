@@ -156,7 +156,7 @@ def process_excel_folder(folder_path, target_columns, output_file):
 
 
 # 示例用法
-target_columns = ['姓名', '身份证号码', '联系方式', '民族', '人员类型', '所在街道', '所在社区', '所属网格', '住址', '填报人', '填报时间', '修改类型']
+target_columns = ['字段1', '字段2', '字段3', '字段4', '字段5', '字段6', '字段7', '字段8', '字段9', '字段10', '字段11', '字段12']
 output_file = r'F:\人口数据\重核（开江——总）.xlsx'
 process_excel_folder(r'C:\Users\888888\Desktop\开江', target_columns, output_file)
 check(r'C:\Users\888888\Desktop\test')
