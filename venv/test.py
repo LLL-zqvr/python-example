@@ -157,6 +157,6 @@ def process_excel_folder(folder_path, target_columns, output_file):
 
 # 示例用法
 target_columns = ['字段1', '字段2', '字段3', '字段4', '字段5', '字段6', '字段7', '字段8', '字段9', '字段10', '字段11', '字段12']
-output_file = r'F:\人口数据\重核（开江——总）.xlsx'
-process_excel_folder(r'C:\Users\888888\Desktop\开江', target_columns, output_file)
+output_file = r'F:\XX数据\重核（XX——总）.xlsx'
+process_excel_folder(r'C:\Users\XXX\Desktop\XXX', target_columns, output_file)
 check(r'C:\Users\888888\Desktop\test')
