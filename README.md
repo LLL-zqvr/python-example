@@ -24,7 +24,7 @@ xlrd	2.0.1	2.0.1<br>
 
 ##### 2024/7月
 
-[code](../python-example/venv/test.py)
+[code](./test.py)
 介绍：  
 
 这是在单位实习时帮单位改进的代码。可以合并文件夹中的所有excle文件 
